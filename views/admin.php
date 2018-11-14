@@ -15,10 +15,67 @@
             }
         }
     }
+
+    if(isset($_POST['addCity'])){
+        $city = trim(htmlspecialchars($_POST['cityName']));
+        if(empty($city))return false;
+        $countryId = $_POST['countryNameSelect'];
+        $insert = "insert into cities (cityName, countryId)VALUES ('$city', $countryId)";
+        mysql_query($insert);
+        $error = mysql_errno();
+        if($error){
+            echo "$error Не работает!!! ";
+            return false;
+        }
+    }
+    if(isset($_POST['delCity'])){
+        foreach ($_POST as $k=>$v){
+            if(substr($k, 0, 2) == "ci"){
+                $idc = substr($k, 2);
+                $delete = "delete from cities where id = $idc";
+                mysql_query($delete);
+            }
+        }
+    }
+
+    //Обработчик для добавления и удаления городов
+    if($_POST['addHotel']){
+        $hotelName = trim(htmlspecialchars($_POST['hotelName']));
+        $cost = trim(htmlspecialchars($_POST['cost']));
+        $stars = trim(htmlspecialchars($_POST['stars']));
+        $info = trim(htmlspecialchars($_POST['info']));
+        if(empty($hotelName) || empty($cost) || empty($stars) || empty($info)){
+            echo "Fuck Ass!!!";
+            return false;
+        }
+        $cityId = $_POST['hcity'];
+        $s = 'select countries.id from countries, cities 
+                      WHERE countries.id = cities.countryId and cities.id = '.$cityId;
+        $r = mysql_query($s);
+        $row = mysql_fetch_array($r , MYSQL_ASSOC);
+        $countryId = $row['id'];
+        print_r($row);
+        $insertHotel = "insert into hotels (hotelName, cityId, countryId, stars, cost, info)
+                        VALUES ('$hotelName', $cityId, $countryId, $stars, $cost, '$info')";
+        mysql_query($insertHotel);
+        $error = mysql_errno();
+        //if($error){
+        //    echo "$error Не работает!!! ";
+        //    return false;
+        //}
+    }
+
+    $selectHotels = "select ci.id, ci.cityName, ho.id, ho.hotelName, ho.cityId, ho.countryId,
+     ho.stars, ho.info, co.id, co.countryName from cities ci, hotels ho, countries co
+     where ho.cityId = ci.id and ho.countryId = co.id";
     $selectCountries = 'select * from countries';
     $selectCities = 'select ci.id, ci.cityName, co.countryName from countries co, cities ci
                       where ci.countryId = co.id';
+    //запрос для селекта стран
+    $selectCountriesCity = 'select ci.id, ci.cityName, co.countryName from cities ci,countries co WHERE ci.countryId = co.id';
 
+    $resourseCountriesCityC = mysql_query($selectCountriesCity);
+    $resourseHotels = mysql_query($selectHotels);
     $resourseCountries = mysql_query($selectCountries);
     $resourseCities = mysql_query($selectCities);
 
@@ -74,6 +131,39 @@
 <div class="row">
     <div class="col-sm-6">
         <!-- todo section C: for Hotels-->
+        <form action="index.php?page=4" method="post">
+            <table class="table table-striped">
+                <?php while($row = mysql_fetch_array($resourseHotels, MYSQL_ASSOC)):?>
+                    <tr>
+                        <td><?=$row['id']?></td>
+                        <td><?=$row['cityName']." : ".$row['countryName']?></td>
+                        <td><?=$row['hotelName']?></td>
+                        <td><input type="checkbox" name="hb"<?=$row['id']?>></td>
+                    </tr>
+                <?php endwhile;?>
+            </table>
+            <div class="form-group">
+                <select name="hcity" class="form-control">
+                    <?php while($row = mysql_fetch_array($resourseCountriesCityC, MYSQL_NUM)):?>
+                        <option value="<?=$row[0]?>"><?=$row[1]." : ".$row[2]?></option>
+                    <?php endwhile;?>
+                </select>
+            </div>
+            <div class="form-group">
+                <div class="form-inline">
+                    <input type="text" name="hotelName" placeholder="Hotel" class="form-control">
+                    <input type="text" name="cost" placeholder="Cost" class="form-control">
+                    <label for="stars">Звезды: </label>
+                    <input type="number" name="stars" min="1" max="5" class="form-control">
+                </div>
+            </div>
+            <div class="form-group">
+                <textarea name="info" placeholder="Description" class="form-control"></textarea>
+            </div>
+            <input type="submit" name="addHotel" value="Добавить" class="btn btn-sm btn-success">
+            <input type="submit" name="delHotel" value="Удалить" class="btn btn-sm btn-warning">
+
+        </form>
     </div>
     <div class="col-sm-6">
         <!-- todo section D: for Images-->
