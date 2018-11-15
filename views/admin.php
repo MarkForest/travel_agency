@@ -65,9 +65,24 @@
         //}
     }
 
-    $selectHotels = "select ci.id, ci.cityName, ho.id, ho.hotelName, ho.cityId, ho.countryId,
-     ho.stars, ho.info, co.id, co.countryName from cities ci, hotels ho, countries co
-     where ho.cityId = ci.id and ho.countryId = co.id";
+    if(isset($_POST['delHotel'])){
+        foreach ($_POST as $k => $v){
+            if(substr($k, 0,2) == 'hb'){
+                $idc = substr($k, 2);
+                $del = "delete from hotels where id = $idc";
+                mysql_query($del);
+                $error = mysql_errno();
+                if($error){
+                    echo "$error Не работает!!! ";
+                    return false;
+                }
+            }
+        }
+    }
+
+    $selectHotels = 'select ci.cityName, ho.id, ho.hotelName, ho.cityId,
+     ho.stars, ho.info, co.countryName from cities ci, hotels ho, countries co
+     where ho.cityId = ci.id and ho.countryId = co.id';
     $selectCountries = 'select * from countries';
     $selectCities = 'select ci.id, ci.cityName, co.countryName from countries co, cities ci
                       where ci.countryId = co.id';
@@ -138,7 +153,7 @@
                         <td><?=$row['id']?></td>
                         <td><?=$row['cityName']." : ".$row['countryName']?></td>
                         <td><?=$row['hotelName']?></td>
-                        <td><input type="checkbox" name="hb"<?=$row['id']?>></td>
+                        <td><input type="checkbox" name="hb<?=$row['id']?>"></td>
                     </tr>
                 <?php endwhile;?>
             </table>

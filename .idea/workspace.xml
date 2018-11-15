@@ -12,14 +12,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.72228146">
+    <splitter split-orientation="horizontal" split-proportion="0.45362473">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/index.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="312">
-                  <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+                <state relative-caret-position="276">
+                  <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
                   <folding />
                 </state>
               </provider>
@@ -28,7 +28,7 @@
           <file leaf-file-name="test.txt" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/test.txt">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="17">
+                <state relative-caret-position="23">
                   <caret line="1" column="568" lean-forward="false" selection-start-line="1" selection-start-column="568" selection-end-line="1" selection-end-column="568" />
                   <folding />
                 </state>
@@ -48,7 +48,7 @@
           <file leaf-file-name="tours.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/tours.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="102">
+                <state relative-caret-position="138">
                   <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
                   <folding />
                 </state>
@@ -68,46 +68,21 @@
           <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/views/admin.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="250">
-                  <caret line="74" column="121" lean-forward="false" selection-start-line="74" selection-start-column="121" selection-end-line="74" selection-end-column="121" />
+                <state relative-caret-position="462">
+                  <caret line="85" column="41" lean-forward="false" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
                   <folding>
-                    <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-                    <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-                    <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-                    <marker date="1542049170000" expanded="true" signature="776:2703" ph="insert into cities... " />
-                    <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-                    <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-                    <marker date="1542049170000" expanded="true" signature="2102:2261" ph="insert into Hotels... " />
-                    <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-                    <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-                    <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-                    <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select * fro... cities" />
-                    <marker date="1542049170000" expanded="true" signature="3275:4750" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="3302:4213" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="3418:4202" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="3466:3852" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="3582:3615" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="3582:3797" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="3890:4186" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="4240:4750" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="4354:4750" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="4402:4750" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="4516:4750" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="4882:5271" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="5043:5271" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="5664:7586" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="5691:5986" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="5691:7498" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="5789:5986" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="5837:5986" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="5949:5986" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="6335:6663" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="6394:6539" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="6394:6644" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="6700:7122" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="6742:7103" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="7159:7275" ph="..." />
-                    <marker date="1542049170000" expanded="true" signature="7525:7579" ph="..." />
+                    <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+                    <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+                    <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+                    <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+                    <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+                    <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+                    <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+                    <marker date="1542307546000" expanded="true" signature="2621:2652" ph="delete from hotels... " />
+                    <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+                    <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+                    <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+                    <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
                   </folding>
                 </state>
               </provider>
@@ -116,7 +91,7 @@
           <file leaf-file-name="menu.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/menu.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="34">
+                <state relative-caret-position="46">
                   <caret line="2" column="67" lean-forward="false" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
                   <folding />
                 </state>
@@ -126,7 +101,7 @@
           <file leaf-file-name="createdb.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/createdb.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="799">
+                <state relative-caret-position="1081">
                   <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="5" />
                   <folding>
                     <marker date="1541617246000" expanded="true" signature="139:240" ph="create table... countries" />
@@ -147,22 +122,24 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="admin.php" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/views/admin.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="287">
-                  <caret line="51" column="7" lean-forward="false" selection-start-line="51" selection-start-column="7" selection-end-line="51" selection-end-column="7" />
+                <state relative-caret-position="153">
+                  <caret line="152" column="39" lean-forward="true" selection-start-line="152" selection-start-column="39" selection-end-line="152" selection-end-column="39" />
                   <folding>
-                    <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-                    <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-                    <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-                    <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-                    <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-                    <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-                    <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-                    <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-                    <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select citie... cities" />
+                    <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+                    <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+                    <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+                    <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+                    <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+                    <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+                    <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+                    <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+                    <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+                    <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+                    <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
                   </folding>
                 </state>
               </provider>
@@ -171,8 +148,8 @@
           <file leaf-file-name="functions.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/functions.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+                <state relative-caret-position="345">
+                  <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
                   <folding>
                     <marker date="1541934378000" expanded="true" signature="810:910" ph="insert into users... " />
                   </folding>
@@ -183,7 +160,7 @@
           <file leaf-file-name="getCountries.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/getCountries.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="204">
+                <state relative-caret-position="276">
                   <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
                   <folding>
                     <marker date="1541785956000" expanded="true" signature="99:132" ph="select * fro... counties" />
@@ -195,7 +172,7 @@
           <file leaf-file-name="createdb.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/createdb.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="799">
+                <state relative-caret-position="1081">
                   <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="5" />
                   <folding>
                     <marker date="1541617246000" expanded="true" signature="139:240" ph="create table... countries" />
@@ -216,7 +193,7 @@
           <file leaf-file-name="registration.php" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/views/registration.php">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
+                <state relative-caret-position="299">
                   <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
                   <folding />
                 </state>
@@ -340,11 +317,12 @@
       <workItem from="1541783920009" duration="1678000" />
       <workItem from="1541933219331" duration="2056000" />
       <workItem from="1542040199648" duration="8990000" />
+      <workItem from="1542305957102" duration="1842000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30234000" />
+    <option name="totallyTimeSpent" value="32076000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,7 +342,6 @@
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -376,6 +353,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -403,43 +381,18 @@
         <state relative-caret-position="969">
           <caret line="57" column="33" lean-forward="true" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
           <folding>
-            <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-            <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-            <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="776:2703" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-            <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-            <marker date="1542049170000" expanded="true" signature="2102:2261" ph="insert into Hotels... " />
-            <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-            <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-            <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-            <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select * fro... cities" />
-            <marker date="1542049170000" expanded="true" signature="3275:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3302:4213" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3418:4202" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3466:3852" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3615" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3797" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3890:4186" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4240:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4354:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4402:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4516:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4882:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5043:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5664:7586" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:7498" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5789:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5837:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5949:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6335:6663" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6539" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6644" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6700:7122" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6742:7103" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7159:7275" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7525:7579" ph="..." />
+            <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+            <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+            <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+            <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+            <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+            <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2652" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+            <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+            <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+            <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
           </folding>
         </state>
       </provider>
@@ -508,43 +461,18 @@
         <state relative-caret-position="34">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding>
-            <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-            <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-            <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="776:2703" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-            <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-            <marker date="1542049170000" expanded="true" signature="2102:2261" ph="insert into Hotels... " />
-            <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-            <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-            <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-            <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select * fro... cities" />
-            <marker date="1542049170000" expanded="true" signature="3275:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3302:4213" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3418:4202" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3466:3852" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3615" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3797" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3890:4186" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4240:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4354:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4402:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4516:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4882:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5043:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5664:7586" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:7498" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5789:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5837:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5949:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6335:6663" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6539" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6644" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6700:7122" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6742:7103" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7159:7275" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7525:7579" ph="..." />
+            <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+            <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+            <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+            <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+            <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+            <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2652" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+            <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+            <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+            <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
           </folding>
         </state>
       </provider>
@@ -631,43 +559,18 @@
         <state relative-caret-position="34">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding>
-            <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-            <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-            <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="776:2703" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-            <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-            <marker date="1542049170000" expanded="true" signature="2102:2261" ph="insert into Hotels... " />
-            <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-            <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-            <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-            <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select * fro... cities" />
-            <marker date="1542049170000" expanded="true" signature="3275:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3302:4213" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3418:4202" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3466:3852" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3615" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3797" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3890:4186" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4240:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4354:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4402:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4516:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4882:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5043:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5664:7586" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:7498" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5789:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5837:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5949:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6335:6663" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6539" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6644" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6700:7122" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6742:7103" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7159:7275" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7525:7579" ph="..." />
+            <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+            <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+            <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+            <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+            <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+            <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2652" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+            <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+            <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+            <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
           </folding>
         </state>
       </provider>
@@ -735,43 +638,18 @@
         <state relative-caret-position="34">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding>
-            <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-            <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-            <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="776:2703" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-            <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-            <marker date="1542049170000" expanded="true" signature="2102:2261" ph="insert into Hotels... " />
-            <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-            <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-            <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-            <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select * fro... cities" />
-            <marker date="1542049170000" expanded="true" signature="3275:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3302:4213" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3418:4202" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3466:3852" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3615" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3797" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3890:4186" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4240:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4354:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4402:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4516:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4882:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5043:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5664:7586" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:7498" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5789:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5837:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5949:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6335:6663" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6539" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6644" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6700:7122" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6742:7103" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7159:7275" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7525:7579" ph="..." />
+            <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+            <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+            <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+            <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+            <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+            <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2652" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+            <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+            <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+            <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
           </folding>
         </state>
       </provider>
@@ -839,43 +717,18 @@
         <state relative-caret-position="34">
           <caret line="2" column="18" lean-forward="false" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
           <folding>
-            <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-            <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-            <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="776:2703" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-            <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-            <marker date="1542049170000" expanded="true" signature="2102:2261" ph="insert into Hotels... " />
-            <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-            <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-            <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-            <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select * fro... cities" />
-            <marker date="1542049170000" expanded="true" signature="3275:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3302:4213" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3418:4202" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3466:3852" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3615" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3797" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3890:4186" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4240:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4354:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4402:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4516:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4882:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5043:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5664:7586" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:7498" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5789:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5837:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5949:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6335:6663" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6539" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6644" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6700:7122" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6742:7103" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7159:7275" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7525:7579" ph="..." />
+            <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+            <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+            <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+            <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+            <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+            <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2652" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+            <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+            <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+            <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
           </folding>
         </state>
       </provider>
@@ -921,7 +774,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/menu.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
+        <state relative-caret-position="46">
           <caret line="2" column="67" lean-forward="false" selection-start-line="2" selection-start-column="67" selection-end-line="2" selection-end-column="67" />
           <folding />
         </state>
@@ -929,7 +782,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/tours.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
+        <state relative-caret-position="138">
           <caret line="6" column="3" lean-forward="false" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
           <folding />
         </state>
@@ -937,7 +790,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/test.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
+        <state relative-caret-position="23">
           <caret line="1" column="568" lean-forward="false" selection-start-line="1" selection-start-column="568" selection-end-line="1" selection-end-column="568" />
           <folding />
         </state>
@@ -962,16 +815,16 @@
     <entry file="file://$PROJECT_DIR$/api/travelApi.php" />
     <entry file="file://$PROJECT_DIR$/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="12" column="3" lean-forward="true" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
+        <state relative-caret-position="276">
+          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/views/functions.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="345">
+          <caret line="15" column="22" lean-forward="false" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
           <folding>
             <marker date="1541934378000" expanded="true" signature="810:910" ph="insert into users... " />
           </folding>
@@ -980,7 +833,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/getCountries.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="276">
           <caret line="12" column="6" lean-forward="false" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
           <folding>
             <marker date="1541785956000" expanded="true" signature="99:132" ph="select * fro... counties" />
@@ -990,7 +843,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/createdb.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="799">
+        <state relative-caret-position="1081">
           <caret line="47" column="5" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="5" />
           <folding>
             <marker date="1541617246000" expanded="true" signature="139:240" ph="create table... countries" />
@@ -1009,7 +862,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/registration.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="299">
           <caret line="13" column="9" lean-forward="false" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
           <folding />
         </state>
@@ -1017,46 +870,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/views/admin.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="74" column="121" lean-forward="false" selection-start-line="74" selection-start-column="121" selection-end-line="74" selection-end-column="121" />
+        <state relative-caret-position="462">
+          <caret line="85" column="41" lean-forward="false" selection-start-line="85" selection-start-column="41" selection-end-line="85" selection-end-column="41" />
           <folding>
-            <marker date="1542049170000" expanded="true" signature="191:247" ph="insert into countries... " />
-            <marker date="1542049170000" expanded="true" signature="466:499" ph="delete from countries... " />
-            <marker date="1542049170000" expanded="true" signature="776:844" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="776:2703" ph="insert into cities... " />
-            <marker date="1542049170000" expanded="true" signature="1191:1221" ph="delete from cities... " />
-            <marker date="1542049170000" expanded="true" signature="1809:1929" ph="select count... countries" />
-            <marker date="1542049170000" expanded="true" signature="2102:2261" ph="insert into Hotels... " />
-            <marker date="1542049170000" expanded="true" signature="2466:2678" ph="select ci.id... cities" />
-            <marker date="1542049170000" expanded="true" signature="2705:2728" ph="select * fro... countries" />
-            <marker date="1542049170000" expanded="true" signature="2752:2871" ph="select ci.id... countries" />
-            <marker date="1542049170000" expanded="true" signature="2933:3029" ph="select * fro... cities" />
-            <marker date="1542049170000" expanded="true" signature="3275:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3302:4213" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3418:4202" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3466:3852" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3615" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3582:3797" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="3890:4186" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4240:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4354:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4402:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4516:4750" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="4882:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5043:5271" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5664:7586" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5691:7498" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5789:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5837:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="5949:5986" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6335:6663" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6539" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6394:6644" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6700:7122" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="6742:7103" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7159:7275" ph="..." />
-            <marker date="1542049170000" expanded="true" signature="7525:7579" ph="..." />
+            <marker date="1542307546000" expanded="true" signature="191:247" ph="insert into countries... " />
+            <marker date="1542307546000" expanded="true" signature="466:499" ph="delete from countries... " />
+            <marker date="1542307546000" expanded="true" signature="776:844" ph="insert into cities... " />
+            <marker date="1542307546000" expanded="true" signature="1191:1221" ph="delete from cities... " />
+            <marker date="1542307546000" expanded="true" signature="1809:1929" ph="select count... countries" />
+            <marker date="1542307546000" expanded="true" signature="2102:2261" ph="insert into hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2651" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2621:2652" ph="delete from hotels... " />
+            <marker date="1542307546000" expanded="true" signature="2916:3100" ph="select ci.id... cities" />
+            <marker date="1542307546000" expanded="true" signature="3127:3150" ph="select * fro... countries" />
+            <marker date="1542307546000" expanded="true" signature="3174:3293" ph="select ci.id... countries" />
+            <marker date="1542307546000" expanded="true" signature="3355:3451" ph="select ci.id... cities" />
           </folding>
         </state>
       </provider>
